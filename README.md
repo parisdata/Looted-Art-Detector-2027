@@ -1,2 +1,2 @@
 # Looted-Art-Detector-2027
-Open-source tool for analysing art provenance texts using customizable indicators, frequency counts, normalized indexes and named entity recognition.
+A free, browser-based provenance analysis tool for detecting Names of Concern and textual indicators relevant to Holocaust-era art provenance research. Public beta.
